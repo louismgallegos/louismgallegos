@@ -1,5 +1,5 @@
 # Hello, I'm Louis
-<a href="https://www.linkedin.com/in/louis-gallegos-iii-a562131a8"><img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              <a href="https://tryhackme.com/p/louisIII"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/louis-gallegos-iii-a562131a8"><img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> $~~~~~~$ <a href="https://tryhackme.com/p/louisIII"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
 
 
 
