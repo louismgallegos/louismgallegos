@@ -7,7 +7,9 @@
 U.S. Army Veteran | GIAC-certified | IT Enthusiast | Aspiring cybersecurity professional.
 
 ## Certifications:
-(GSEC)-Security Essentials $~~~~~~~$ (GISF)-Information Security Fundimentals $~~~~~~$ (GFACT)-Foundational Cybersecurity Technologies 
+(GCIH)-Security Incident Handling & Hacker Exploits $~~~~~~~$ (GSEC)-Security Essentials  
+
+(GISF)-Information Security Fundimentals $~~~~~~$ (GFACT)-Foundational Cybersecurity Technologies 
 
 CompTIA-(A+)
 
