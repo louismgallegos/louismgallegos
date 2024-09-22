@@ -3,8 +3,24 @@
 
 
 
-## Brief Introduction
-U.S. Army Veteran | GIAC-certified | IT Enthusiast | Aspiring cybersecurity professional pursuing a Bachelor’s degree in Cybersecurity from the SANS Institute. Skilled in communication, leadership, and problem-solving. Eager to apply my skills in an entry-level cybersecurity role, committed to teamwork and organizational success.
+## Brief Introduction:
+U.S. Army Veteran | GIAC-certified | IT Enthusiast | Aspiring cybersecurity professional.
+
+## Certifications:
+(GSEC)-Security Essentials $~~~~~~~$ (GISF)-Information Security Fundimentals $~~~~~~$ (GFACT)-Foundational Cybersecurity Technologies 
+
+CompTIA-(A+)
+
+## Currently Studying:
+pursuing a Bachelor’s degree in Cybersecurity from the SANS Institute. 
+
+## Soft Skills:
+Skilled in communication, leadership, technical writting and problem-solving. 
+
+## Goals:
+Eager to apply my skills in an entry-level cybersecurity role, committed to teamwork and organizational success.
+
+## Projects:
 <!--
 **louismgallegos/louismgallegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
